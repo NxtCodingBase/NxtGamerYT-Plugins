@@ -1,0 +1,8 @@
+name: YouTubeUI
+version: 1.0
+author: NxtGamerYT
+main: NxtGamerYT\YouTubeUI\main
+
+commands:
+  youtubeui:
+    description: "Youtuber - Anforderungen | UI"
